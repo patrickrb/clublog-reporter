@@ -1,4 +1,4 @@
-###Clublog Reporter
+## Clublog Reporter
 
 This is a discord bot that gathers our clubs clublog scores and posts the leaderboard daily to our discord channel.
 
